@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agnik Bishi</h1>
-<h3 align="center">A passionate frontend developer am a passionate Software Engineer currently pursuing a B.Tech degree from the Institute of Engineering and Management, Kolkata. My expertise spans across Python, Flask, AI, Generative AI, Kotlin, SQL, and more. With a solid foundation in software development and a keen interest in AI technologies, I focus on building innovative solutions that bridge the gap between cutting-edge tech and practical applications. I completed my higher secondary education at Khukuradaha ICMM High School, and I am constantly seeking opportunities to expand my knowledge and skills in the ever-evolving tech landscape from India</h3>
+<h3 align="center">A passionate frontend develI am a passionate Software Engineer currently pursuing a B.Tech degree from the Institute of Engineering and Management, Kolkata. My expertise spans across Python, Flask, AI, Generative AI, Kotlin, SQL, and more. With a solid foundation in software development and a keen interest in AI technologies, I focus on building innovative solutions that bridge the gap between cutting-edge tech and practical applications. I completed my higher secondary education at Khukuradaha ICMM High School, and I am constantly seeking opportunities to expand my knowledge and skills in the ever-evolving tech landscape.oper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishubishi&label=Profile%20views&color=0e75b6&style=flat" alt="jishubishi" /> </p>
 
@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/agnik-bishi-38357a240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agnik-bishi-38357a240/" height="30" width="40" /></a>
 <a href="https://kaggle.com/agnik28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="agnik28" height="30" width="40" /></a>
+<a href="https://instagram.com/lm3ilich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lm3ilich" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
