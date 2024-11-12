@@ -48,7 +48,7 @@
 
 
 ### 📫 Contact Me:
-- **Email**: agnikbishi@example.com (replace this with your actual email)
+- **Email**: agnikbishi28@gmail.com (replace this with your actual email)
 - **LinkedIn**: [agnik-bishi](https://www.linkedin.com/in/agnik-bishi-38357a240/)
 
 ---
